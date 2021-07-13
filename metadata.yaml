@@ -1,11 +1,16 @@
 _repo: Charles-Darwin-and-the-Theory-of-Natural-Selection_65779
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65779-h/images/cover.jpg
 creator:
   author:
     agent_name: Poulton, Sir Edward Bagnall
     gutenberg_agent_id: '53497'
     url: http://www.gutenberg.org/2009/agents/53497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65779#Charles-Darwin-and-the-Theory-of-Natural-Selection
 gutenberg_issued: '2021-07-06'
 gutenberg_type: Text
 identifiers:
